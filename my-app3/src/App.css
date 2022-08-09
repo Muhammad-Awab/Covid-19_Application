@@ -1,0 +1,15 @@
+.card{
+  width: 21rem;
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+.Cards{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 4rem;
+}
+
+body{
+  background-color: blue;
+
+}
